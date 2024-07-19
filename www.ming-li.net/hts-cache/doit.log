@@ -1,0 +1,8 @@
+https://www.ming-li.net/ -O /tmp/www.ming-li.net +*.ming-li.net/* -v
+File generated automatically on Fri, 19 Jul 2024 14:36:29, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
